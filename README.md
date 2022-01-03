@@ -1,2 +1,2 @@
 # ProgrammingLanguage
-programming language include php, java, go, python, others.
+Programming language include PHP, Java, Go, Python, others.
